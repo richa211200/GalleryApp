@@ -1,4 +1,6 @@
-# GalleryApp
+# GalleryApp 
+
+- Android app, which consists of features like pinch zoom, download and share.
 
 # Glide: 
 - Used GLide to get all images from shared prefrences of your device. 
